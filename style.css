@@ -1,0 +1,25 @@
+
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+  background-color: white;
+    font-size: 18px;
+    
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(152, 149, 149);
+
+}
+.main_div button {
+    font-family:'Roboto', sans-serif ;
+    margin-top:30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+body {
+    font-family:'Special Elite', cursive;
+    background-image: linear-gradient( skyblue,white);
+}
